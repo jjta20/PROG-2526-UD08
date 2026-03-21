@@ -45,4 +45,4 @@ Aquí tenéis el resumen de los ejercicios resueltos, estructurados para simular
 > *Las interfaces son la base del código moderno y de las APIs. Dominar este tema os separa de los programadores novatos y os acerca a los arquitectos de software. ¡A exprimir NetBeans!*
 
 ---
-*Profe: Javier Torre Antúnez | IES Newton-Salas | DAM* 🏫
+*Profe: Javier Torre Antúnez | IES Newton-Salas* 🏫
