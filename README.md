@@ -42,7 +42,7 @@ Aquí tenéis el resumen de los ejercicios resueltos, estructurados para simular
 3. **Provoca errores:** Descarga el proyecto e intenta hacer trampas. Haz que `ImpresoraBasica` intente usar el método de escanear. Intenta cambiar el valor de un atributo de una interfaz en el main. ¡Ver cómo el compilador te frena es la mejor forma de entender las reglas!
 
 > **💡 Consejo del profe:** 
-> *Las interfaces son la base del código moderno y de las APIs. Dominar este tema os separa de los programadores novatos y os acerca a los arquitectos de software. ¡A exprimir NetBeans!*
+> *Las interfaces son la base del código moderno y de las APIs. Dominar este tema os separa de los programadores novatos y os acerca a los arquitectos de software. ¡A exprimir tu IDE!*
 
 ---
 *Profe: Javier Torre Antúnez | IES Newton-Salas* 🏫
