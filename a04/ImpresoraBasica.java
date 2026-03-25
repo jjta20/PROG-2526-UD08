@@ -8,4 +8,7 @@ class ImpresoraBasica implements Imprimible {
         System.out.println("Imprimiendo en blanco y negro: " + documento);
     }
     
+    public void imprimirDobleCara(String documento) {
+        System.out.println("Imprimiendo en doble cara: " + documento);
+    }
 }
